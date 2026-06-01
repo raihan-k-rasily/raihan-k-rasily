@@ -196,7 +196,7 @@ const raihan = {
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 B.Tech – Computer Science & Engineering | Kerala, India | 2024 | — |
+| 🎓 BCA  | MGU,Kottayam,Kerala, India | 2022-25 | 6.17 |
 
 </div>
 
