@@ -219,7 +219,7 @@ const raihan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-raihan--k--rasily-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/raihan-k-rasily)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raihan-k-rasily)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-/)
 
 </div>
 
